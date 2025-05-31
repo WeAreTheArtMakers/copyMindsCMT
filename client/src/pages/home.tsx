@@ -30,14 +30,18 @@ export default function Home({ onNavigate }: HomeProps) {
             >
               Start Copy Trading
             </Button>
-            <Button 
-              variant="outline" 
-              size="lg"
-              className="glass border-slate-600 hover:bg-white/10 px-8 py-4 text-lg"
-            >
-              <Play className="w-5 h-5 mr-2" />
-              Watch Demo
-            </Button>
+             <Button
+                as="a"
+                href="https://www.youtube.com/watch?v=tw3hO1j4Hxc"
+                target="_blank"
+                rel="noopener noreferrer"
+                variant="outline"
+                size="lg"
+                className="glass border-slate-600 hover:bg-white/10 px-8 py-4 text-lg"
+              >
+                <Play className="w-5 h-5 mr-2" />
+                Watch Demo
+                </Button>
           </div>
         </div>
 
