@@ -80,5 +80,10 @@ copyMindsCMT/
 ```
 
 ## Lisans
+WATAM
 
-Sponsored by ![Logo](https://modfxmarket.com/street/img/street12.PNG)
+## Sponsored by
+
+<a href="https://modfxmarket.com" target="_blank">
+  <img src="https://modfxmarket.com/street/img/street12.PNG" alt="Logo" />
+</a>
